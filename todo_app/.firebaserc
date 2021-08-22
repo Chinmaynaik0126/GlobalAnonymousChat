@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "global-anonymous-messaging",
+    "build": "global-anonymous-messaging"
+  },
+  "targets": {}
+}
